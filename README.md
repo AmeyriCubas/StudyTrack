@@ -1,0 +1,1 @@
+# StudyTrack monorepo (backend/frontend)
